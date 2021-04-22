@@ -37,10 +37,5 @@
         "friendsofphp/php-cs-fixer": "^2.16",
         "phpspec/phpspec": "^6.1",
         "phpunit/phpunit": "^8.4"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.0-dev"
-        }
     }
 }
